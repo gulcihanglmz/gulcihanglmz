@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gülcihan</h1>
-<h4 align="left">As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java.</h4>
+<h4 align="left">As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java. Additionally, I'm interested in artificial intelligence.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +30,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gulciha-n&show_icons=true&theme=dark&locale=en&layout=compact" alt="Gulciha-n" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gulciha-n&show_icons=true&theme=dark&locale=en" alt="Gulciha-n" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Gulciha-n&theme=vue-dark&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gulciha-n&theme=vue-dark&hide_border=false&background=000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&theme=vue-dark&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulciha-n&theme=dark" alt="Gulciha-n" /></p>
