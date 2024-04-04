@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gülcihan</h1>
-<h4 align="left">As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java. Additionally, I'm interested in artificial intelligence.</h4>
+<h4 align="left">
+  
+💻As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java. Additionally, I'm interested in artificial intelligence.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +33,10 @@
 </a>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Gulciha-n&theme=vue-dark&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gulciha-n&theme=vue-dark&hide_border=false&background=000000)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&theme=vue-dark&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&layout=compact)
 
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gulciha-n&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&layout=compact&theme=tokyonight" height="180">
+  
+</p>
