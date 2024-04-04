@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gülcihan</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Gülcihan" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+
 <h4 align="left">
   
 💻As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java. Additionally, I'm interested in artificial intelligence.</h4>
+<a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="Android+mobil+developer,AI+Researcher"><img src="https://readme-typing-svg.herokuapp.com?color=913CD2&size=30&vCenter=true&lines=Android+mobil+developer;AI+Researcher" /></a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
