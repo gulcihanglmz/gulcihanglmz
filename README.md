@@ -44,3 +44,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&layout=compact&theme=tokyonight" height="180">
   
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Gulciha-n&icon=0&color=0)](https://visitcount.itsvg.in)
