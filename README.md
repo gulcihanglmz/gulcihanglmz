@@ -2,10 +2,7 @@
 
 <h4 align="left">
   
-💻As a computer engineering student, I'm passionate about software development, focusing on creating Android mobile applications using Kotlin and Java. Additionally, I'm interested in artificial intelligence.</h4>
-<a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="Android+mobil+developer,AI+Researcher"><img src="https://readme-typing-svg.herokuapp.com?color=007BFF&size=30&vCenter=true&lines=Android+mobil+developer;AI+Researcher" /></a>
-
-
+💻I am a computer engineering student in Istanbul. I'm currently progressing through data science. I'm interested in artificial intelligence. As a hobby, I develop mobile applications with Java and Kotlin..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
