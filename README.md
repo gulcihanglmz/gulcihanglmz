@@ -2,8 +2,7 @@
 
 <h4 align="left">
   
-💻I am a computer engineering student in Istanbul. I'm currently progressing through data science. I'm interested in artificial intelligence. As a hobby, I develop mobile applications with Java and Kotlin..
-
+💻I am a computer engineering student in Istanbul, currently focusing on data science. Additionally, I develop Android mobile applications using Kotlin and Java. I am also interested in artificial intelligence.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gülcihan-gülmez-engineer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gülcihan-gülmez-engineer06/" height="30" width="40" /></a>
