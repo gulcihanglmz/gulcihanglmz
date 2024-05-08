@@ -10,10 +10,10 @@
   
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40 />
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
@@ -25,13 +25,16 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" />
-</a>
-
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.sql.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" alt="sql" width="40" height="40" />
+  </a>
+</p>
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
