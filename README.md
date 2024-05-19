@@ -34,6 +34,12 @@
   <a href="https://www.sql.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" alt="sql" width="40" height="40" />
   </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="50" height="50" />
+</a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50" />
+</a>
 </p>
 
 
