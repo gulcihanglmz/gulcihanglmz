@@ -8,39 +8,30 @@
 <a href="https://linkedin.com/in/gülcihan-gülmez-engineer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gülcihan-gülmez-engineer06/" height="30" width="40" /></a>
 <a href="https://medium.com/@Glchn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Glchn" height="30" width="40" /></a>
   
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.sql.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" alt="sql" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="50" height="50" />
-</a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50" />
-</a>
-</p>
+<!-- Tech Stack -->
+<h2 align="center">Languages & Tools</h2>
+
+<div align="center">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="html5 logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="android" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="opencv" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" height="40" alt="sql" /></a>
+</div>
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
