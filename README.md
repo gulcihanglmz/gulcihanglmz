@@ -2,7 +2,7 @@
 
 <h4 align="left">
   
-💻I am a computer engineering student in Istanbul, currently focusing on data science. Additionally, I develop Android mobile applications using Kotlin and Java. I am also interested in artificial intelligence.
+💻I am a computer engineering student in Istanbul, currently focusing on data science. Additionally, I develop Android mobile applications using Kotlin and Java.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gülcihan-gülmez-engineer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gülcihan-gülmez-engineer06/" height="30" width="40" /></a>
@@ -31,12 +31,14 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="opencv" /></a>
   <img width="12" />
   <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" height="40" alt="sql" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/d9da1899-0a7d-4a92-9047-1709cdce442f" height="40" alt="colab" /></a>
 </div>
-
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gulciha-n&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gulciha-n&show_icons=true&theme=tokyonight"![Uploading colab_favicon_256px.png…]()
+ width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&layout=compact&theme=tokyonight" height="180">
   
 </p>
