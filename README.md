@@ -28,8 +28,6 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /></a>
   <img width="12" />
-  <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/55c04e72-8904-46f2-8525-29eba3244603" height="40" alt="seaborn" /></a>
-  <img width="12" />
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="opencv" /></a>
   <img width="12" />
   <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" height="40" alt="sql" /></a>
