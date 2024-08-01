@@ -2,7 +2,8 @@
 
 <h4 align="left">
   
-💻I am a 3rd year Computer Engineering student, currently focusing on data science and artificial intelligence. Additionally, I develop Android mobile applications using Kotlin and Java. My passion for cutting-edge technology drives me to constantly explore new innovations and push the boundaries of what's possible in the tech world.
+💻I am a 3rd year Computer Engineering student, currently focusing on data science and machine learning. My passion for cutting-edge technology drives me to constantly explore new innovations and push the boundaries of what's possible in the tech world.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gülcihan-gülmez-engineer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gülcihan-gülmez-engineer06/" height="30" width="40" /></a>
