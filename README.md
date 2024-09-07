@@ -37,9 +37,9 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gulciha-n&show_icons=true&theme=tokyonight"![Uploading colab_favicon_256px.png…]()
+  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight"![Uploading colab_favicon_256px.png…]()
  width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulciha-n&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" height="180">
   
 </p>
 
