@@ -2,7 +2,7 @@
 
 <h4 align="left">
   
-💻I am a 3rd year Computer Engineering student, currently focusing on data science and machine learning. My passion for cutting-edge technology drives me to constantly explore new innovations and push the boundaries of what's possible in the tech world.
+💻I am a third-year Computer Engineering student with a strong focus on data science and machine learning. My passion for cutting-edge technology drives me to explore new innovations and push the boundaries of what's possible in the tech world. I am particularly interested in applying machine learning algorithms to real-world problems, and I enjoy working on projects that challenge me to think creatively and analytically. Through hands-on experience and collaboration with peers, I continuously strive to enhance my skills and stay updated with the latest advancements in technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,5 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" height="180">
   
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=Gulciha-n&icon=0&color=0)](https://visitcount.itsvg.in)
