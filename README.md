@@ -33,6 +33,8 @@
   <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/280c2bd9-6a68-4a2f-a1f8-949673a57f25" height="40" alt="sql" /></a>
   <img width="12" />
   <a href="#"><img src="https://github.com/Gulciha-n/Gulciha-n/assets/120305183/d9da1899-0a7d-4a92-9047-1709cdce442f" height="40" alt="colab" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg" height="40" alt="colab" /></a>
 </div>
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
