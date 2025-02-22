@@ -46,7 +46,7 @@
 <h2 align="center">🚀 My GitHub Stats 🚀</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight" width="450" height="180" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight" width="450" height="180" style="display: inline-block; margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" width="450" height="180" style="display: inline-block;">
 </p>
 
