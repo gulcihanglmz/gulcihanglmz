@@ -1,12 +1,16 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Gülcihan" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Gülcihan" alt="Typing SVG" /></a></h1>
 
 <h4 align="left">
   
-💻I am a third-year Computer Engineering student with a strong focus on data science and machine learning. My passion for cutting-edge technology drives me to explore new innovations and push the boundaries of what's possible in the tech world. I am particularly interested in applying machine learning algorithms to real-world problems, and I enjoy working on projects that challenge me to think creatively and analytically. Through hands-on experience and collaboration with peers, I continuously strive to enhance my skills and stay updated with the latest advancements in technology.
+💻 I am a third-year Computer Engineering student focused on Data Science and Artificial Intelligence. Passionate about technology, I apply machine learning to real-world problems and enjoy creative, analytical challenges. I continually strive to enhance my skills and stay updated with the latest tech advancements through hands-on experience and collaboration.
+
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gülcihan-gülmez-engineer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gülcihan-gülmez-engineer06/" height="30" width="40" /></a>
+  <a href="linkedin.com/in/gülcihan-gülmez-engineer06" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/gulcihangulmez-engineer06/" height="30" width="40" /></a>
+</p>
   
 <!-- Tech Stack -->
 <h2 align="center">Languages & Tools</h2>
@@ -16,7 +20,7 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
   <img width="12" />
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="html5 logo" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="kotlin logo" /></a>
   <img width="12" />
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="android" /></a>
   <img width="12" />
@@ -37,10 +41,11 @@
   <a href="#"><img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg" height="40" alt="colab" /></a>
 </div>
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<h2 align="center">🚀 My GitHub Stats 🚀</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight"![Uploading colab_favicon_256px.png…]()
- width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" height="180">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight" width="450" height="180" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" width="450" height="180" style="display: inline-block;">
 </p>
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
