@@ -44,10 +44,19 @@
 </div>
 
 <h2 align="center">🚀 My GitHub Stats 🚀</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&theme=tokyonight" width="450" height="180" style="display: inline-block; margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcihanglmz&layout=compact&theme=tokyonight" width="450" height="180" style="display: inline-block;">
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulcihanglmz&theme=custom&background=0d1b2a&ring=00b4d8&fire=90e0ef&currStreakLabel=caf0f8&currStreakNum=caf0f8&sideNums=00b4d8&sideLabels=90e0ef&dates=caf0f8&stroke=00b4d8" alt="gulcihanglmz" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gulcihanglmz&show_icons=true&locale=en&bg_color=0d1b2a&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef" alt="gulcihanglmz" />
+    </td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulcihanglmz&show_icons=true&locale=en&layout=donut&langs_count=20&bg_color=0d1b2a&title_color=00b4d8&text_color=caf0f8&icon_color=90e0ef" alt="gulcihanglmz" />
+  </tr>
+</table>
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
