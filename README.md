@@ -1,7 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=335&lines=Hi+%F0%9F%91%8B%2C+I'm+Gülcihan" alt="Typing SVG" /></a></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi+✋🏻+I'm+Gülcihan)](https://git.io/typing-svg)
 
-<h4 align="left">
-  
 💻 I am a third-year Computer Engineering student focused on Data Science and Artificial Intelligence. Passionate about technology, I apply machine learning to real-world problems and enjoy creative, analytical challenges. I continually strive to enhance my skills and stay updated with the latest tech advancements through hands-on experience and collaboration.
 
 </h4>
