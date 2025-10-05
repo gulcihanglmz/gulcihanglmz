@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi+✋🏻+I'm+Gülcihan)](https://git.io/typing-svg)
 
 <p align="center">
-  I'm a final-year Computer Engineering student with a deep passion for the world of Data Science and AI.Passionate about technology, I apply machine learning to real-world problems and enjoy creative, analytical challenges. I continually strive to enhance my skills and stay updated with the latest tech advancements through hands-on experience and collaboration.
+  I'm a final-year Computer Engineering student with a deep passion for the world of Data & Cloud Engineer.Passionate about technology, I apply machine learning to real-world problems and enjoy creative, analytical challenges. I continually strive to enhance my skills and stay updated with the latest tech advancements through hands-on experience and collaboration.
 </p>
 
 <p align="center">
