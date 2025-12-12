@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: anuraghazra/github-readme-stats@v2
         with:
           username: gulcihanglmz
           output_path: generated-stats/stats.svg
@@ -21,7 +21,7 @@ jobs:
           theme: highcontrast
 
       - name: Generate GitHub Streak
-        uses: anuraghazra/github-readme-stats@master
+        uses: anuraghazra/github-readme-stats@v2
         with:
           username: gulcihanglmz
           output_path: generated-stats/streak.svg
@@ -29,7 +29,7 @@ jobs:
           theme: highcontrast
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
+        uses: anuraghazra/github-readme-stats@v2
         with:
           username: gulcihanglmz
           output_path: generated-stats/top-langs.svg
