@@ -1,0 +1,70 @@
+{
+  "username": "gulcihanglmz",
+  "output_directory": "./generated-stats",
+  "cards": {
+    "stats": {
+      "enabled": true,
+      "filename": "stats.svg",
+      "options": {
+        "show_icons": true,
+        "hide_border": false,
+        "count_private": true,
+        "theme": "tokyonight",
+        "include_all_commits": true
+      }
+    },
+    "stats_extended": {
+      "enabled": true,
+      "filename": "stats-extended.svg",
+      "options": {
+        "show_icons": true,
+        "hide_border": false,
+        "count_private": true,
+        "theme": "tokyonight",
+        "include_all_commits": true,
+        "show": [
+          "reviews",
+          "prs_merged",
+          "discussions_started",
+          "discussions_answered",
+          "prs_merged_percentage"
+        ]
+      }
+    },
+    "top_languages": {
+      "enabled": true,
+      "filename": "top-langs.svg",
+      "options": {
+        "langs_count": 8,
+        "layout": "compact",
+        "hide_border": false,
+        "theme": "tokyonight"
+      }
+    },
+    "streak": {
+      "enabled": true,
+      "filename": "streak.svg",
+      "options": {
+        "stroke": "0000",
+        "hide_border": false,
+        "theme": "tokyonight"
+      }
+    },
+    "trophy": {
+      "enabled": true,
+      "filename": "trophy.svg",
+      "options": {
+        "row": 3,
+        "column": 7,
+        "no_bg": true,
+        "no_frame": false,
+        "theme": "onedark"
+      }
+    },
+    "repos": [],
+    "gists": [],
+    "wakatime": {
+      "enabled": false
+    }
+  }
+}
