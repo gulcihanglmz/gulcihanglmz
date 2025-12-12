@@ -39,7 +39,7 @@
 
 ---
 
-<h1 align="center">Gülcihan Gülmez's Profile Statistics 📊</h1>
+<h1 align="center">Profile Statistics</h1>
 
 <p align="center">
   <div align="center">
