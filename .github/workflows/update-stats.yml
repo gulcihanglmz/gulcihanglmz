@@ -1,0 +1,47 @@
+name: Update Profile Stats
+
+on:
+  push:
+    branches:
+      - main 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' 
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: gulcihanglmz
+          output_path: generated-stats/stats.svg
+          show_icons: true
+          theme: highcontrast
+
+      - name: Generate GitHub Streak
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: gulcihanglmz
+          output_path: generated-stats/streak.svg
+          mode: streak
+          theme: highcontrast
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: gulcihanglmz
+          output_path: generated-stats/top-langs.svg
+          mode: top_langs
+          theme: highcontrast
+          layout: compact 
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add generated-stats/
+          git commit -m "chore: Update GitHub Stats" || true
+          # Buradaki dal adını deponuzdaki ana dal ile eşleştirin (main veya master).
+          git push origin main
