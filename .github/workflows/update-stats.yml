@@ -2,12 +2,11 @@ name: Generate GitHub Stats
 
 on:
 # Run weekly on Sunday at midnight UTC
-  schedule:
-    - cron: "0 0 * * 0"
+  #schedule:
+   # - cron: "0 0 * * 0"
 
   # Allow manual trigger
   workflow_dispatch:
-
   # Run when config changes
   push:
     paths:
