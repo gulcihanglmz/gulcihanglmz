@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout your repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
 
@@ -39,7 +39,7 @@ jobs:
           git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-temp
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: "22"
 
@@ -115,9 +115,9 @@ jobs:
             STATS_COUNT_PRIVATE=$(echo "$CONFIG" | jq -r '.cards.stats.options.count_private // false')
             
             URL="http://localhost:9000/api?username=${USERNAME}&theme=${STATS_THEME}&show_icons=${STATS_SHOW_ICONS}&hide_border=${STATS_HIDE_BORDER}&include_all_commits=${STATS_INCLUDE_ALL}&count_private=${STATS_COUNT_PRIVATE}"
-            echo "📊 Generating stats card..."
+            echo "Generating stats card..."
             curl -s "$URL" -o "generated-stats/${STATS_FILENAME}"
-            echo "✅ Generated: ${STATS_FILENAME}"
+            echo "Generated: ${STATS_FILENAME}"
           fi
 
           # ===== STATS EXTENDED CARD =====
@@ -132,9 +132,9 @@ jobs:
             STATS_EXT_SHOW=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.show | if . then join(",") else "" end')
             
             URL="http://localhost:9000/api?username=${USERNAME}&theme=${STATS_EXT_THEME}&show_icons=${STATS_EXT_SHOW_ICONS}&hide_border=${STATS_EXT_HIDE_BORDER}&include_all_commits=${STATS_EXT_INCLUDE_ALL}&count_private=${STATS_EXT_COUNT_PRIVATE}&show=${STATS_EXT_SHOW}"
-            echo "📊 Generating extended stats card..."
+            echo "Generating extended stats card..."
             curl -s "$URL" -o "generated-stats/${STATS_EXT_FILENAME}"
-            echo "✅ Generated: ${STATS_EXT_FILENAME}"
+            echo "Generated: ${STATS_EXT_FILENAME}"
           fi
 
           # ===== TOP LANGUAGES CARD =====
@@ -147,9 +147,9 @@ jobs:
             LANGS_HIDE_BORDER=$(echo "$CONFIG" | jq -r '.cards.top_languages.options.hide_border // false')
             
             URL="http://localhost:9000/api/top-langs?username=${USERNAME}&theme=${LANGS_THEME}&layout=${LANGS_LAYOUT}&langs_count=${LANGS_COUNT}&hide_border=${LANGS_HIDE_BORDER}"
-            echo "💻 Generating top languages card..."
+            echo "Generating top languages card..."
             curl -s "$URL" -o "generated-stats/${LANGS_FILENAME}"
-            echo "✅ Generated: ${LANGS_FILENAME}"
+            echo "Generated: ${LANGS_FILENAME}"
           fi
 
           # ===== STREAK STATS (local PHP server) =====
@@ -161,9 +161,9 @@ jobs:
             STREAK_STROKE=$(echo "$CONFIG" | jq -r '.cards.streak.options.stroke // ""')
             
             URL="http://localhost:8080/index.php?user=${USERNAME}&theme=${STREAK_THEME}&hide_border=${STREAK_HIDE_BORDER}&stroke=${STREAK_STROKE}"
-            echo "🔥 Generating streak stats card..."
+            echo "Generating streak stats card..."
             curl -s "$URL" -o "generated-stats/${STREAK_FILENAME}"
-            echo "✅ Generated: ${STREAK_FILENAME}"
+            echo "Generated: ${STREAK_FILENAME}"
           fi
 
           # ===== REPO CARDS =====
@@ -177,9 +177,9 @@ jobs:
                 REPO_THEME=$(echo "$REPO_CONFIG" | jq -r '.options.theme // "default"')
                 
                 URL="http://localhost:9000/api/pin?username=${USERNAME}&repo=${REPO_NAME}&theme=${REPO_THEME}"
-                echo "📦 Generating repo card for: ${REPO_NAME}..."
+                echo "Generating repo card for: ${REPO_NAME}..."
                 curl -s "$URL" -o "generated-stats/${REPO_FILENAME}"
-                echo "✅ Generated: ${REPO_FILENAME}"
+                echo "Generated: ${REPO_FILENAME}"
               fi
             done
           fi
@@ -195,9 +195,9 @@ jobs:
             TROPHY_COLUMN=$(echo "$CONFIG" | jq -r '.cards.trophy.options.column // 7')
             
             URL="http://localhost:8081/?username=${USERNAME}&theme=${TROPHY_THEME}&no-bg=${TROPHY_NO_BG}&no-frame=${TROPHY_NO_FRAME}&row=${TROPHY_ROW}&column=${TROPHY_COLUMN}"
-            echo "🏆 Generating trophy card..."
+            echo "Generating trophy card..."
             curl -s "$URL" -o "generated-stats/${TROPHY_FILENAME}"
-            echo "✅ Generated: ${TROPHY_FILENAME}"
+            echo "Generated: ${TROPHY_FILENAME}"
           fi
 
           # Stop the servers
@@ -229,5 +229,5 @@ jobs:
         run: |
           git config user.name "Gülcihan Gülmez"
           git config user.email "gulcihanglmz@users.noreply.github.com"
-          git commit -m "📊 Update GitHub stats cards"
+          git commit -m "Update GitHub stats cards"
           git push
